@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-hi, i'm [Aisha Farizka Mawla], an undergraduate student of Informatics. Passionate in web developing. Like learning something new and sharing knowledge to others
+hi, i'm Aisha Farizka Mawla, an undergraduate student of Informatics. Passionate in web developing. Like learning something new and sharing knowledge to others
 
 - 💼 any freelance work? do reach, [email](mailto:aishafarizka.a@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
